@@ -6,6 +6,7 @@ https://www.medrxiv.org/content/10.1101/2023.11.16.23298475v6
 NB: FinnGen analyses were undertaken by collaborators at the University of Eastern Finland and script for this analysis is not available here.
 
 To help interpret findings from the paper, it may help to refer to a Perspective on the topic that colleagues and I have also written: 
-"Understanding apolipoprotein E as a predominant cause of Alzheimer's disease"
+"Understanding apolipoprotein E as a predominant cause of Alzheimer's disease".
+
 Pre-print available here:
 https://zenodo.org/records/17963297
